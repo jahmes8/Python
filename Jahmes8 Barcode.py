@@ -1,6 +1,6 @@
 ###################
 #
-# Name: James Chen
+# Name: Jahmes8
 #
 # Program: Barcode Validation
 #
